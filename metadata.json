@@ -1,0 +1,6 @@
+{
+  "name": "HappyMod - Mod O'yinlar va Ilovalar Do'koni",
+  "description": "HappyMod - Barcha mod o'yinlar va ilovalar xavfsiz va tez yuklab olish do'koni. Telefon (Android/iOS) va Kompyuter (Windows/Mac) uchun mos, 100% ishlaydigan modlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
